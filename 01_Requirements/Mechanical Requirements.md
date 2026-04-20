@@ -1,9 +1,9 @@
-| ID     | Requirement         | Rationale        | Verification | Parent System Req | Subsystem | Type |
-| ------ | ------------------- | ---------------- | ------------ | ----------------- | --------- | ---- |
-| MR-001 | The system shall... | Why this matters | Test method  |                   |           |      |
-| MR-002 | The system shall... | Why this matters | Test method  |                   |           |      |
-| MR-003 | The system shall... | Why this matters | Test method  |                   |           |      |
-|        |                     |                  |              |                   |           |      |
-|        |                     |                  |              |                   |           |      |
-|        |                     |                  |              |                   |           |      |
-|        |                     |                  |              |                   |           |      |
+| ID     | Requirement                                                                                               | Rationale                         | Verification | Parent System Req | Subsystem | Type |
+| ------ | --------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------ | ----------------- | --------- | ---- |
+| MR-001 | The structure shall support the solar panel, motor, sensor, and battery without tipping during operation. | Ensure safe and stable operation  | Test         |                   |           |      |
+| MR-002 | The support frame shall maintain panel alignment during manual handling and motorized adjustment.         | Maintain tracking accuracy        | Test         |                   |           |      |
+| MR-003 | The system shall fit within a compact tabletop-scale size for portability.                                | Support easy carrying and storage | Inspection   |                   |           |      |
+| MR-004 | The frame shall be manufacturable using 3D-printing methods and common prototyping materials.             | Enable rapid fabrication          | Inspection   |                   |           |      |
+| MR-005 | The base shall provide stable contact with the ground or table during outdoor use.                        | Prevent slipping or falling       | Test         |                   |           |      |
+|        | The rotating joint shall allow controlled panel movement without excessive looseness or friction.         | Support reliable motion           | Test         |                   |           |      |
+|        |                                                                                                           |                                   |              |                   |           |      |
