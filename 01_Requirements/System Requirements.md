@@ -1,5 +1,16 @@
-| ID     | Requirement         | Rationale        | Verification | Subsystem | Priority | Status | Owner |
-| ------ | ------------------- | ---------------- | ------------ | --------- | -------- | ------ | ----- |
-| SR-001 | The system shall... | Why this matters | Test method  |           |          |        |       |
-| SR-002 | The system shall... | Why this matters | Test method  |           |          |        |       |
-| SR-003 | The system shall... | Why this matters | Test method  |           |          |        |       |
+| ID     | Requirement                                                                          | Rationale        | Verification | Subsystem | Priority | Status | Owner |
+| ------ | ------------------------------------------------------------------------------------ | ---------------- | ------------ | --------- | -------- | ------ | ----- |
+| SR-001 | The system shall convert sunlight into electrical energy using a solar panel module. | Why this matters | Test method  |           |          |        |       |
+| SR-002 | The system shall...                                                                  | Why this matters | Test method  |           |          |        |       |
+| SR-003 | The system shall...                                                                  | Why this matters | Test method  |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
+|        |                                                                                      |                  |              |           |          |        |       |
