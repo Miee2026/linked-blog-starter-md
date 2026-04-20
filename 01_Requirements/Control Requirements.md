@@ -1,7 +1,0 @@
-| ID     | Requirement                                                                                             | Rationale                          | Verification | Parent System Req | Subsystem         | Type       |
-| ------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------ | ----------------- | ----------------- | ---------- |
-| CR-001 | The control system shall read real-time input from the light sensor module.                             | Detect sunlight direction          | Test         | SR-003            | Sensing/Control   | Functional |
-| CR-002 | The control system shall compare sensor input and determine the required panel adjustment direction.    | Enable automatic tracking logic    | Test         | SR-002            | Control           | Functional |
-| CR-003 | The control system shall command the motorized adjustment system to reposition the panel automatically. | Execute tracking behavior          | Test         | SR-004            | Control/Actuation | Functional |
-| CR-004 | The control system shall stop panel motion when the desired orientation is reached.                     | Prevent overshoot and wasted power | Test         | SR-002            | Control           | Functional |
-| CR-005 | The control system shall support repeatable tracking behavior under outdoor lighting conditions.        | Ensure consistent function         | Test         | SR-010            | Control           | Functional |
