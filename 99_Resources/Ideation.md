@@ -1,6 +1,4 @@
 
-# Ideation
-
 | Need | Key User | Environment |
 | --- | --- | --- |
 | Improve solar energy collection by automatically tracking the sun. | Homeowners and small solar system users. | Outdoor areas with direct sunlight and changing sun position during the day. |
