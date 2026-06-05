@@ -13,7 +13,7 @@
 | State Diagram               | 24-May-16 | Y             | Nicole                       | Y              |                         |       |
 | Requirements Flow Down      | 24-May-26 | Y             | Mie                          | Y              |                         |       |
 | Physical Prototype          | 7-Jun-26  | Y             | Mie                          | Y              |                         |       |
-| Functional Tests            | 7-Jun-26  |               | Nicole                       | Y              |                         |       |
+| Functional Tests            | 7-Jun-26  | Y             | Nicole                       | Y              |                         |       |
 | Obsidian Documents          | 7-Jun-26  | Y             | Nicole                       | Y              |                         |       |
 | Team Project Website        | 7-Jun-26  | Y             | Finn                         | Y              |                         |       |
 | Done Done                   | 8-Jun-26  | N             | All                          | Y              |                         |       |
